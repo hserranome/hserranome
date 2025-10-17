@@ -1,7 +1,7 @@
-# Nice to meet you! 👋
+# Hi hi
 
-Hi. I'm Hendy Serrano, a TypeScript full-stack developer, currently based in Spain.
+I'm a TypeScript full-stack developer, based in Spain, working from anywhere.
 
-- [Website 🖼](https://www.hserrano.me/work)
+- [Website 🖼](https://www.hserrano.me)
 - [Email 📬](mailto:hendy@hserrano.me)
 - [LinkedIn 💼](https://www.linkedin.com/in/hendy-serrano/)
