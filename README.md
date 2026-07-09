@@ -1,6 +1,7 @@
 # Hi hi
 
-I'm a TypeScript full-stack developer, based in Spain, working from anywhere.
+I'm a Software Engineer, based in Spain.
+I like focusing on stuff from an UX design perspective.
 
 - [Website 🖼](https://www.hserrano.me)
 - [Email 📬](mailto:hendy@hserrano.me)
